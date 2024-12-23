@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maxi-9!
+# 👋 Hi there, I'm Max!
 
 🌟 **About Me**
 I'm a high school senior with a programming certificate from Rio Salado Community College. I enjoy building creative and impactful projects with a focus on complex calculations and machine learning.
