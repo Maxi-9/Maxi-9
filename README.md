@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Max!
 
 🌟 **About Me**
-I'm a high school senior with a programming certificate from Rio Salado Community College. I enjoy building creative and impactful projects with a focus on complex calculations and machine learning.
+I'm a student at Grand Valley State University. Graduated highschool with a Assocates in Programming and Systems Analysis from Maricopa Community Colleges. I enjoy building creative and impactful projects with a focus on complex calculations and machine learning.
 
 💻 **Skills**
 - Languages: C#, V#, Java, Python, JS, Rust, Swift.
